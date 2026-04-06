@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment Files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build Artifacts
+/dist/
+/build/
+
+# IDE Specific Patterns
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
